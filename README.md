@@ -101,7 +101,6 @@ index.html
 
 ## 🔄 Roadmap Pengembangan
 
-* 🔐 Login & Register
 * 🛒 Keranjang belanja
 * 💳 Sistem pembayaran
 * 📊 Dashboard admin
@@ -119,8 +118,7 @@ Project ini dibuat berdasarkan kebutuhan industri:
 ## 👨‍💻 Developer
 
 **Rafa Izaz Ramadhan**
-SMK Negeri 3 Cikarang Barat
-Teknik Instalasi Tenaga Listrik
+
 
 ---
 
@@ -130,10 +128,3 @@ Free for learning & development purposes.
 
 ---
 
-Kalau kamu mau next step, aku bisa bantu:
-
-* 🔥 bikin **README versi premium (pakai badge, animation, dll)**
-* 🌐 bantu **deploy ke GitHub Pages**
-* 💻 atau sekalian **ubah mockup jadi website real (HTML CSS JS full)**
-
-Gas lanjut mana?
